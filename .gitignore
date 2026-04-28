@@ -1,0 +1,3 @@
+# Backups y notas locales
+*.txt
+!vercel.json
